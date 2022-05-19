@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\bin\Debug\net6.0\Ejercicio1-Condicionales.exe
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\bin\Debug\net6.0\Ejercicio1-Condicionales.deps.json
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\bin\Debug\net6.0\Ejercicio1-Condicionales.runtimeconfig.json
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\bin\Debug\net6.0\Ejercicio1-Condicionales.dll
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\bin\Debug\net6.0\Ejercicio1-Condicionales.pdb
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\obj\Debug\net6.0\Ejercicio1-Condicionales.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\obj\Debug\net6.0\Ejercicio1-Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\obj\Debug\net6.0\Ejercicio1-Condicionales.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\obj\Debug\net6.0\Ejercicio1-Condicionales.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\obj\Debug\net6.0\Ejercicio1-Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\obj\Debug\net6.0\Ejercicio1-Condicionales.dll
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\obj\Debug\net6.0\refint\Ejercicio1-Condicionales.dll
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\obj\Debug\net6.0\Ejercicio1-Condicionales.pdb
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\obj\Debug\net6.0\Ejercicio1-Condicionales.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\scharp\Ejercicio1-Condicionales\Ejercicio1-Condicionales\obj\Debug\net6.0\ref\Ejercicio1-Condicionales.dll
