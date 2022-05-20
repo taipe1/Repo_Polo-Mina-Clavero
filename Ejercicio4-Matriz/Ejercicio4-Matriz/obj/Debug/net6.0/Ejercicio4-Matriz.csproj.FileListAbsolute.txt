@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\bin\Debug\net6.0\Ejercicio4-Matriz.exe
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\bin\Debug\net6.0\Ejercicio4-Matriz.deps.json
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\bin\Debug\net6.0\Ejercicio4-Matriz.runtimeconfig.json
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\bin\Debug\net6.0\Ejercicio4-Matriz.dll
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\bin\Debug\net6.0\Ejercicio4-Matriz.pdb
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\obj\Debug\net6.0\Ejercicio4-Matriz.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\obj\Debug\net6.0\Ejercicio4-Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\obj\Debug\net6.0\Ejercicio4-Matriz.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\obj\Debug\net6.0\Ejercicio4-Matriz.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\obj\Debug\net6.0\Ejercicio4-Matriz.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\obj\Debug\net6.0\Ejercicio4-Matriz.dll
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\obj\Debug\net6.0\refint\Ejercicio4-Matriz.dll
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\obj\Debug\net6.0\Ejercicio4-Matriz.pdb
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\obj\Debug\net6.0\Ejercicio4-Matriz.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\scharp\Ejercicio4-Matriz\Ejercicio4-Matriz\obj\Debug\net6.0\ref\Ejercicio4-Matriz.dll
