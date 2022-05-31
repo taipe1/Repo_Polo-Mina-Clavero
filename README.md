@@ -1,2 +1,5 @@
-# Repo_Polo-Mina-Clavero
-Repositorio del Curso Introductorio a c#
+# Polo Tecnológico Mina Clavero
+
+Curso de .NET Polo Tecnológico de Mina Clavero Argentina
+
+
