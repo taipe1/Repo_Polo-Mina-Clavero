@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\bin\Debug\net6.0\Ejercicio6-Bingo.exe
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\bin\Debug\net6.0\Ejercicio6-Bingo.deps.json
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\bin\Debug\net6.0\Ejercicio6-Bingo.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\bin\Debug\net6.0\Ejercicio6-Bingo.dll
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\bin\Debug\net6.0\Ejercicio6-Bingo.pdb
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\obj\Debug\net6.0\Ejercicio6-Bingo.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\obj\Debug\net6.0\Ejercicio6-Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\obj\Debug\net6.0\Ejercicio6-Bingo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\obj\Debug\net6.0\Ejercicio6-Bingo.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\obj\Debug\net6.0\Ejercicio6-Bingo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\obj\Debug\net6.0\Ejercicio6-Bingo.dll
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\obj\Debug\net6.0\refint\Ejercicio6-Bingo.dll
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\obj\Debug\net6.0\Ejercicio6-Bingo.pdb
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\obj\Debug\net6.0\Ejercicio6-Bingo.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio6-Bingo\Ejercicio6-Bingo\obj\Debug\net6.0\ref\Ejercicio6-Bingo.dll
