@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\bin\Debug\net6.0\Ejercicio13-Billetera.exe
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\bin\Debug\net6.0\Ejercicio13-Billetera.deps.json
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\bin\Debug\net6.0\Ejercicio13-Billetera.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\bin\Debug\net6.0\Ejercicio13-Billetera.dll
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\bin\Debug\net6.0\Ejercicio13-Billetera.pdb
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\obj\Debug\net6.0\Ejercicio13-Billetera.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\obj\Debug\net6.0\Ejercicio13-Billetera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\obj\Debug\net6.0\Ejercicio13-Billetera.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\obj\Debug\net6.0\Ejercicio13-Billetera.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\obj\Debug\net6.0\Ejercicio13-Billetera.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\obj\Debug\net6.0\Ejercicio13-Billetera.dll
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\obj\Debug\net6.0\refint\Ejercicio13-Billetera.dll
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\obj\Debug\net6.0\Ejercicio13-Billetera.pdb
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\obj\Debug\net6.0\Ejercicio13-Billetera.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Repo_Polo-Mina-Clavero\Ejercicio13-Billetera\Ejercicio13-Billetera\obj\Debug\net6.0\ref\Ejercicio13-Billetera.dll
